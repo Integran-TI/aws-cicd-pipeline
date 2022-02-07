@@ -1,9 +1,12 @@
 # Local Terraform directories
 **/.terraform/*
+
 # State files
 *.tfstate
 *.tfstate.*
+
 # Crsh log files
 *.log
+
 # Sensitive data
 *.tfvars
